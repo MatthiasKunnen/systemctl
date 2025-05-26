@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/taigrr/systemctl/properties"
+	"github.com/MatthiasKunnen/systemctl/properties"
 )
 
 const dateFormat = "Mon 2006-01-02 15:04:05 MST"

@@ -1,4 +1,4 @@
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/taigrr/systemctl)](https://pkg.go.dev/github.com/taigrr/systemctl)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/MatthiasKunnen/systemctl)](https://pkg.go.dev/github.com/MatthiasKunnen/systemctl)
 # systemctl
 
 This library aims at providing idiomatic `systemctl` bindings for go developers, in order to make it easier to write system tooling using golang.
@@ -58,7 +58,7 @@ import (
     "log"
     "time"
 
-    "github.com/taigrr/systemctl"
+    "github.com/MatthiasKunnen/systemctl"
 )
 
 func main() {

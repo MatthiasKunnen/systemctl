@@ -1,3 +1,3 @@
-module github.com/taigrr/systemctl
+module github.com/MatthiasKunnen/systemctl
 
 go 1.18

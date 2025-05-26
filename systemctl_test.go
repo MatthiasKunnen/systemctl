@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/taigrr/systemctl/properties"
+	"github.com/MatthiasKunnen/systemctl/properties"
 )
 
 var userString string
